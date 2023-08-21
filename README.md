@@ -48,10 +48,38 @@ $ docker-compose up -d
 $ npm i --save typeorm @nestjs/typeorm pg
 ```
 
+## or 
+# typeorm
+```bash
+$ npm i @nestjs/typeorm typeorm 
+```
+# pgadmin
+```bash
+$ npm i pg 
+```
+
 # @nestjs/config install
 ```bash
 $ npm i --save @nestjs/config
 ```
+
+# class-validator
+```bash
+$ npm i class-validator --save
+$ npm i class-transformer
+```
+# class-validator brazilian-values
+```bash
+$ npm i brazilian-class-validator --save
+$ npm i brazilian-values --save
+```
+
+## uuid
+```bash
+$ npm i uuid
+```
+
+
 
 ## Installation
 
